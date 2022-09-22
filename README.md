@@ -1,2 +1,2 @@
-# Group3
+# Operating System
 Nachos Project
